@@ -19,9 +19,10 @@
 <p align="center">
   <a href="https://linkedin.com/in/md-rehan-98782a274"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
   <a href="mailto:rehanmd705063@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/rehan70506"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a> </br>
-  <a href="https://x.com/mdrehan70506"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
-  <a href="https://codepen.io/md-rehan-the-scripter"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white"></a>
+  <a href="https://www.glassdoor.co.in/member/profile"><img src="https://img.shields.io/badge/Glassdoor-0CAA41?style=flat&logo=glassdoor&logoColor=white"></a> </br>
+  <a href="https://instagram.com/rehan70506"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a> 
+  <a href="https://x.com/mdrehan70506"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a> </br>
+  <a href="https://codepen.io/md-rehan-the-scripter"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white"></a> </br>
 </p>
 
 
