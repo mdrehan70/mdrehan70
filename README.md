@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrehan70&label=Profile%20views&color=0e75b6&style=flat" alt="mdrehan70" /> </p>
 
 # 💫 About Me:
-<img align="right" alt="coding" width="400px" src="68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f6d656469612e68656c6c6f756d692e636f6d2f3132353034322f6368616e6e656c732f464a33445a495457435932363830343348474641434950394346554139584d362e676966](https://camo.githubusercontent.com/9b6fc5d912addd4914c4a9f27315843522a10a4ae11852da4251a4f71cd2f7ae/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f6d656469612e68656c6c6f756d692e636f6d2f3132353034322f6368616e6e656c732f464a33445a495457435932363830343348474641434950394346554139584d362e676966">
+<img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/9b6fc5d912addd4914c4a9f27315843522a10a4ae11852da4251a4f71cd2f7ae/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f6d656469612e68656c6c6f756d692e636f6d2f3132353034322f6368616e6e656c732f464a33445a495457435932363830343348474641434950394346554139584d362e676966">
 🌱 I’m currently learning <b>and exploring new technologies in Full-Stack Web Development.</b><br><br>
 👨‍💻 All of my projects are available at <a href="https://portfolio2114.netlify.app">Portfolio</a><br><br>
 🖇️ Connect with me on ➡️ <a href="https://www.linkedin.com/in/md-rehan-98782a274">LinkedIn</a><br><br>
