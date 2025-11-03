@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAG3pz-Cu7A/cjoBJScakc0Nn_ropsTLXA/view?utm_content=DAG3pz-Cu7A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6e8a387577)
+![logo](https://github.com/mdrehan70/mdrehan70/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Md Rehan</h1>
 <h3 align="center">I'm a passionate developer with a love for Full-Stack Web Development, and I'm currently working on My Skills.</h3>
 
